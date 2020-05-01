@@ -11,3 +11,16 @@ D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Operadores\Operadores\obj\Debug\netcor
 D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.dll
 D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.pdb
 D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.genruntimeconfig.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.exe
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.deps.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\3-Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.genruntimeconfig.cache

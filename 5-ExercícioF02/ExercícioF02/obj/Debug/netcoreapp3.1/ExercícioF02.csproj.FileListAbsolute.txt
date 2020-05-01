@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\bin\Debug\netcoreapp3.1\ExercícioF02.exe
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\bin\Debug\netcoreapp3.1\ExercícioF02.deps.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\bin\Debug\netcoreapp3.1\ExercícioF02.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\bin\Debug\netcoreapp3.1\ExercícioF02.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\bin\Debug\netcoreapp3.1\ExercícioF02.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\bin\Debug\netcoreapp3.1\ExercícioF02.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\obj\Debug\netcoreapp3.1\ExercícioF02.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\obj\Debug\netcoreapp3.1\ExercícioF02.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\obj\Debug\netcoreapp3.1\ExercícioF02.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\obj\Debug\netcoreapp3.1\ExercícioF02.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\obj\Debug\netcoreapp3.1\ExercícioF02.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\obj\Debug\netcoreapp3.1\ExercícioF02.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\ExercícioF02\ExercícioF02\obj\Debug\netcoreapp3.1\ExercícioF02.genruntimeconfig.cache

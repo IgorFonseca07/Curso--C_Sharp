@@ -23,6 +23,55 @@ namespace Operadores {
             Console.WriteLine(delta);
             Console.WriteLine(x1);
             Console.WriteLine(alternativo);
+            Console.WriteLine("-----");
+
+            a += 2;
+            Console.WriteLine(a);
+
+            a *= 9;
+            Console.WriteLine(a);
+
+            string u = "ABC";
+            Console.WriteLine(u);
+
+            u += "DEF";
+            Console.WriteLine(u);
+
+            a++;
+            Console.WriteLine(a);
+            Console.WriteLine("-----");
+
+            a = 10;
+            b = a++;
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+
+            a = 10;
+            b = ++a;
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine("-----");
+
+            double m;
+            float n;
+
+            n = 5.1f;
+            m = n;
+
+            Console.WriteLine(n + " e " + m);
+
+            m = 5.1;
+            n = (float)m;
+
+            Console.WriteLine(m + " e " + n);
+
+            int o = 5;
+            int p = 2;
+            double resultado = (double)o / p;
+
+            Console.WriteLine(resultado);
+
+
 
 
         }

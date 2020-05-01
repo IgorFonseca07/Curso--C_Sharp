@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\bin\Debug\netcoreapp3.1\Exerc01EstSeq.exe
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\bin\Debug\netcoreapp3.1\Exerc01EstSeq.deps.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\bin\Debug\netcoreapp3.1\Exerc01EstSeq.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\bin\Debug\netcoreapp3.1\Exerc01EstSeq.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\bin\Debug\netcoreapp3.1\Exerc01EstSeq.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\bin\Debug\netcoreapp3.1\Exerc01EstSeq.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\obj\Debug\netcoreapp3.1\Exerc01EstSeq.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\obj\Debug\netcoreapp3.1\Exerc01EstSeq.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\obj\Debug\netcoreapp3.1\Exerc01EstSeq.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\obj\Debug\netcoreapp3.1\Exerc01EstSeq.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\obj\Debug\netcoreapp3.1\Exerc01EstSeq.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\obj\Debug\netcoreapp3.1\Exerc01EstSeq.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc01EstSeq\Exerc01EstSeq\obj\Debug\netcoreapp3.1\Exerc01EstSeq.genruntimeconfig.cache
