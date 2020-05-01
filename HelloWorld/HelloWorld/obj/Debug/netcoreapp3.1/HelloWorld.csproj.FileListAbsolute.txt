@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
