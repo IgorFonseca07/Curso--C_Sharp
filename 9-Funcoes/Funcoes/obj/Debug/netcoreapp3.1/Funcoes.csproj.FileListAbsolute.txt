@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache

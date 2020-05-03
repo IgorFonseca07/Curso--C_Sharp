@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\bin\Debug\netcoreapp3.1\Exerc03EstWhile.exe
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\bin\Debug\netcoreapp3.1\Exerc03EstWhile.deps.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\bin\Debug\netcoreapp3.1\Exerc03EstWhile.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\bin\Debug\netcoreapp3.1\Exerc03EstWhile.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\bin\Debug\netcoreapp3.1\Exerc03EstWhile.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\bin\Debug\netcoreapp3.1\Exerc03EstWhile.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\obj\Debug\netcoreapp3.1\Exerc03EstWhile.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\obj\Debug\netcoreapp3.1\Exerc03EstWhile.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\obj\Debug\netcoreapp3.1\Exerc03EstWhile.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\obj\Debug\netcoreapp3.1\Exerc03EstWhile.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\obj\Debug\netcoreapp3.1\Exerc03EstWhile.dll
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\obj\Debug\netcoreapp3.1\Exerc03EstWhile.pdb
+D:\Documents\CursoC#_Udemy\Curso--C_Sharp\Exerc03EstWhile\Exerc03EstWhile\obj\Debug\netcoreapp3.1\Exerc03EstWhile.genruntimeconfig.cache
