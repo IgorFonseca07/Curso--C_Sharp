@@ -18,6 +18,7 @@ namespace Funcoes {
             Console.WriteLine("----------------------");
 
 
+
             double x = 1.0;
             while (x != 0) {
                 Console.Write("Digite um número: ");
@@ -27,6 +28,23 @@ namespace Funcoes {
                 Console.WriteLine(raiz.ToString("F3", CultureInfo.InvariantCulture));
             }
             Console.WriteLine("----------------------");
+
+
+
+            Console.Write("Quantos números inteiros você vai digitar? ");
+            int numint = int.Parse(Console.ReadLine());
+            int res = 0;
+
+            for (int cond = 1; cond != (numint + 1); cond++) {
+                Console.Write("Valor #" + cond + ": ");
+                int som = int.Parse(Console.ReadLine());
+                res += som;
+            }
+
+            Console.WriteLine("SOMA = " + res);
+            Console.WriteLine("----------------------");
+
+
 
 
         }

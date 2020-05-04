@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\09-Funcoes\\Funcoes\\Funcoes.csproj": {}
+    "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\Exerc04EstFor\\Exerc04EstFor\\Exerc04EstFor.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\09-Funcoes\\Funcoes\\Funcoes.csproj": {
+    "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\Exerc04EstFor\\Exerc04EstFor\\Exerc04EstFor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\09-Funcoes\\Funcoes\\Funcoes.csproj",
-        "projectName": "Funcoes",
-        "projectPath": "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\09-Funcoes\\Funcoes\\Funcoes.csproj",
+        "projectUniqueName": "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\Exerc04EstFor\\Exerc04EstFor\\Exerc04EstFor.csproj",
+        "projectName": "Exerc04EstFor",
+        "projectPath": "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\Exerc04EstFor\\Exerc04EstFor\\Exerc04EstFor.csproj",
         "packagesPath": "C:\\Users\\Caveira\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\09-Funcoes\\Funcoes\\obj\\",
+        "outputPath": "D:\\Documents\\CursoC#_Udemy\\Curso--C_Sharp\\Exerc04EstFor\\Exerc04EstFor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
